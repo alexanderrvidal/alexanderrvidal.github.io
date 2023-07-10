@@ -58,7 +58,7 @@ reconcile the two datasets. A preprocessing step is applied that uses convolutio
 
 ## Software Publications and Contributions
 
-- **Python:** [JKO_flow](https://github.com/mines-opt-ml/JKO_Flow) (Pytorch implementation for the JKO-Flow paper)
+- **Python:** [JKO-Flow](https://github.com/mines-opt-ml/JKO_Flow) (Pytorch implementation for the JKO-Flow paper)
 
 ## Peer-Reviewed Publications
 <ul>{% for post in site.publications reversed %}
