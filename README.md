@@ -1,6 +1,6 @@
-# lewisblake.github.io
+# alexanderrvidal.github.io
 
-This repository contains the source code for my personal website at https://lewisblake.github.io/.
+This repository contains the source code for my personal website at https://alexanderrvidal.github.io/ which was forked from https://lewisblake.github.io/
 
 ## License
 Except where otherwise noted, the content of the project itself is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
