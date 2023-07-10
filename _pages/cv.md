@@ -19,65 +19,46 @@ redirect_from:
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> </p>
 
 ## Education
-- **Ph.D. in Statistics**, 2017-December 2021<br>
+- **Ph.D. in Applied Mathematics and Statistics**, 2019-Current<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
-  - *Thesis:* [Enabling Massive Spatial Data Analysis](https://hdl.handle.net/11124/15362)
-  - *Committee:* [Dr. Dorit Hammerling (Advisor)](https://ams.mines.edu/project/hammerling-dorit/), [Dr. H. Sebnem Düzgün (Chair)](https://mining.mines.edu/project/duzgun-h-sebnem/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Soutir Bandyopadhyay](https://ams.mines.edu/project/bandyopadhyay-soutir/)
+  - *Thesis:* [DEEP LEARNING APPROACHES TO OPTIMAL TRANSPORT AND OPTIMAL CONTROL]()
+  - *Committee:* [Dr. Samy Wu Fung (Advisor)](https://ams.mines.edu/project/wu-fung-samy/), [Dr. Luis Tenorio (Advisor)](https://ams.mines.edu/project/tenorio-luis/), [Dr. Gregory Fasshauer](https://ams.mines.edu/project/fasshauer-greg/) [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Thomas Monecke (Chair)](https://geology.mines.edu/project/monecke-thomas/)
 
-- **M.Sc. in Statistics**, 2017-2018<br>
+- **M.Sc. in Appllied Mathematics and Statistics, Minor: Electrical Engineering**, 2018-2019<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
 
-- **B.A. in Mathematics**, 2012-2016<br>
-**[Hampshire College](https://www.hampshire.edu/ "https://www.hampshire.edu/")**
-  - *Thesis:* Assume a Spherical Cow: Mathematical Modeling of Bovine Dynamical Systems
-  - *Supervisors:* [Dr. Sarah Hews](https://www.hampshire.edu/faculty/sarah-hews), [Dr. Geremías Polanco Encarnación](https://www.hampshire.edu/faculty/gerem%C3%ADas-polanco-encarnaci%C3%B3n)
-  - *Minor Concentrations:* Computer Science, Agriculture
+- **B.Sc. in Engineering, Minor: Economics**, 2006-2010<br>
+**[University of Colorado - Boulder](https://www.colorado.edu/ "https://www.colorado.edu/")**
 
 ## Experience
-- **Computational Scientist**, [Norwegian Meterological Institute](https://www.met.no), March 2022 - Present
+- **Senior Data Scientist**, [On The Barrelhead / NerdWallet](www.nerdwallet.com), October 2021 - Present
 
-  - *Working group:* Division For Climate Modeling and Air Pollution
+  - *Working group:* Credit Cards and Lending
+ 
+- **Chief Data Scientist**, [Rigorous Machine Learning Solutions, LLC](), October 2022 - Present
 
-- **Graduate Research Assistant**, [NCAR - National Center for Atmospheric Research](https://ncar.ucar.edu/), Summers 2018, 2019, and 2021
+  * Consulted on various contract projects.
 
-  - *Working group:* [Computational and Informational Systems Laboratory](https://www2.cisl.ucar.edu/ "https://www2.cisl.ucar.edu/")
-  * Implemented and released parallel machine learning models (Multi-resolution Approximation) allowing users to compute with hundreds-of-millions of observations
-  * Analyzed massive geospatial satellite data on the [Cheyenne](https://www2.cisl.ucar.edu/resources/computational-systems/cheyenne) and [Capser](https://www2.cisl.ucar.edu/resources/computational-systems/casper) high-performance computing systems
+- **Graduate Research Assistant**, [CASERM](https://caserm.mines.edu/), 2019 - 2021
 
-- **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2020 - August 2020
+  * Worked on a project that requires collecting two different types of mineralogical data and applying image recognition techniques in order to
+reconcile the two datasets. A preprocessing step is applied that uses convolutional neural networks to "mask” the data that is not useful. Following the preprocessing, neural network modeling are used to allow for prediction of one dataset given the other.
 
-  - *Working Group:* Artificial Intelligence and Machine Learning Center of Excellence
-  * Developed novel and scalable machine learning algorithms for IT application health prediction
-  * Performed and automated IT analytics EDAs, leading to discovery of unknown application issues and resulting in significant savings
+- **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
 
-- **Research and Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
-  * I develop practical and theoretical tools to analyze highly nonstationary environmental data sets on the order of hundreds-of-millions of observations  
-  * A primary component of my PhD work was as a Research Assistant at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado, USA
+  - *Working Group:* Finance
 
-- **AmeriCorps Math Fellow**, [Denver Public Schools](https://www.dpsk12.org/), August 2016 - June 2017
-  *  [AmeriCorps](https://americorps.gov/) national service year teaching middle school mathematics
-
-- **Research Fellow**, [Four-College Biomathematics Consortium](https://sophia.smith.edu/blog/4cbc/4cbc-fellowships/), May 2015 - May 2016
-  * Implemented original research modeling bovine water-intake in pasture
-  * Designed and built low-cost, passive data collection tools
-  * Modeled ice phenology of Lake Linné, Svalbard, Norway
-  * Presented research results at consortium conferences
+- **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
 
 
 ## Computer Skills
-- **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL
-- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4, dask, xarray
-- **Other:** Git, MPI Programming
+- **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL, MSSQL
+- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4, dask, xarray
+- **Other:** Git
 
 ## Software Publications and Contributions
-- **Matlab:** [DeepTreeMRA](https://github.com/lewisblake/DeepTreeMRA), [MRA-Parallel](https://github.com/lewisblake/MRA-Parallel), [MRA-Serial](https://github.com/lewisblake/MRA-Serial) (Implementations of the Multi-resolution Approximation spatial model for various computational infrastructures)
 
-- **Python:** [pyaerocom](https://github.com/metno/pyaerocom) (Python tools for the AeroCom project), [optimparallel](https://pypi.org/project/optimparallel/) (Parallel computing interface to the L-BFGS-B optimizer)
-
-
-## Professional Services
-- **Referee:** Electronic Journal of Statistics, The Annals of Applied Statistics, Environmetrics
-- **Judge:** Colorado School of Mines Undergraduate Research Symposium 2020
+- **Python:** [JKO_flow](https://github.com/mines-opt-ml/JKO_Flow) (Pytorch implementation for the JKO-Flow paper)
 
 ## Peer-Reviewed Publications
 <ul>{% for post in site.publications reversed %}
