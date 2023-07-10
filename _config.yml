@@ -8,13 +8,13 @@
 # Site Settings
 #remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
 locale                   : "en-US"
-title                    : "LEWIS BLAKE" # site title
+title                    : "ALEXANDER VIDAL" # site title
 title_separator          : "&#124;"
-name                     : &name "Lewis Blake"
-description              : &description "Computational Scientist." # used predominantly in meta descriptions for improving SEO
-url                      : "https://lewisblake.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Alexander Vidal"
+description              : &description "PhD Candidate and Consulting Data Scientist" # used predominantly in meta descriptions for improving SEO
+url                      : "https://alexanderrvidal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lewisblake/lewisblake.github.io"
+repository               : "alexnaderrvidal/alexanderrvidal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "Sheer_G_Lewis_Headshots_10.17.21_007_compressed.jpg"
-  bio              : "Computational Scientist" # sidebar bio
-  location         : "Oslo, Norway"
+  avatar           : "portrait.pdf"
+  bio              : "PhD Candidate and Consulting Data Scientist" # sidebar bio
+  location         : "Durango, Colorado, USA"
   employer         :
-  googlescholar    : "DY_BINkAAAAJ"
-  email            : "lewis.blake@met.no"
-  researchgate     : "Lewis-Blake"
+  googlescholar    : "JwVdglMAAAAJ"
+  email            : "alexanderrobertvidal@gmail.com"
+  researchgate     : "Alexander-Vidal-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lewisblake"
+  github           : "Axlvid23"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "lewisblake"
-  orcid            : "0000-0002-9978-1702"
-  phone            : "+47 457 39 178"
+  linkedin         : "alexander-vidal-8470aa11"
+  orcid            : 
+  phone            : "+1 720 252 6405"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
