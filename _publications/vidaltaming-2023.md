@@ -2,7 +2,7 @@
 title: "Taming hyperparameter tuning in continuous normalizing flows using the JKO scheme"
 collection: publications
 permalink: /publications/articles/vidaltaming-2023
-citation: "<b>Vidal, Alexander.</b>, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon: <i>&quot;Taming hyperparameter tuning in continuous normalizing flows using the JKO scheme&quot;</i>, Scientific Reports, DOI: <a href='https://www.nature.com/articles/s41598-023-31521-y'>https://www.nature.com/articles/s41598-023-31521-y</a>, 2023."
+citation: "<b>Vidal, Alexander</b>, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon: <i>&quot;Taming hyperparameter tuning in continuous normalizing flows using the JKO scheme&quot;</i>, Scientific Reports, DOI: <a href='https://www.nature.com/articles/s41598-023-31521-y'>https://www.nature.com/articles/s41598-023-31521-y</a>, 2023."
 date: 2023-03-18
 venue: Scientific Reports
 ---
