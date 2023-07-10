@@ -52,8 +52,8 @@ reconcile the two datasets. A preprocessing step is applied that uses convolutio
 
 
 ## Computer Skills
-- **Programming languages:** R, Python, Matlab, C++, Bash/Shell script, LaTeX, PostgreSQL, MSSQL
-- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow, ggplot2, dplyr, cartopy, netCDF4, dask, xarray
+- **Programming languages:** Python, R, Matlab, Bash/Shell script, LaTeX, PostgreSQL, MSSQL
+- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow
 - **Other:** Git
 
 ## Software Publications and Contributions
