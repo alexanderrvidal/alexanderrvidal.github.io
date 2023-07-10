@@ -21,7 +21,7 @@ redirect_from:
 ## Education
 - **Ph.D. in Applied Mathematics and Statistics**, 2019-Current<br>
 **[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
-  - *Thesis:* [DEEP LEARNING APPROACHES TO OPTIMAL TRANSPORT AND OPTIMAL CONTROL]()
+  - *Thesis:* [Deep Learning Approaches to Optimal Transport and Optimal Control]()
   - *Committee:* [Dr. Samy Wu Fung (Advisor)](https://ams.mines.edu/project/wu-fung-samy/), [Dr. Luis Tenorio (Advisor)](https://ams.mines.edu/project/tenorio-luis/), [Dr. Gregory Fasshauer](https://ams.mines.edu/project/fasshauer-greg/) [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Thomas Monecke (Chair)](https://geology.mines.edu/project/monecke-thomas/), [Dr. Levon Nurbekyan](https://sites.google.com/view/lnurbek/home)
 
 - **M.Sc. in Appllied Mathematics and Statistics, Minor: Electrical Engineering**, 2018-2019<br>
