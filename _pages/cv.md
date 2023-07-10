@@ -65,16 +65,6 @@ reconcile the two datasets. A preprocessing step is applied that uses convolutio
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Technical Reports
-<ul>{% for post in site.publications_technotes reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-## Poster Publications
-<ul>{% for post in site.publications_posters reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 ## Manuscripts in Preparation and Preprints
 <ul>{% for post in site.publications_in_preparation reversed %}
     {% include archive-single-cv.html %}
@@ -85,7 +75,3 @@ reconcile the two datasets. A preprocessing step is applied that uses convolutio
     {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
-## Teaching
-<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}</ul>
