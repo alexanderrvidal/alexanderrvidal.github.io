@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "portrait.pdf"
+  avatar           : "portrait.jpeg"
   bio              : "PhD Candidate and Consulting Data Scientist" # sidebar bio
   location         : "Durango, Colorado, USA"
   employer         :
