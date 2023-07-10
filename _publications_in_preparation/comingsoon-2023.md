@@ -1,3 +1,3 @@
 ---
-Title: Coming soon! 
+Title: "Coming soon!"
 ---
