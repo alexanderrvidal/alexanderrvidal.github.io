@@ -33,25 +33,24 @@ redirect_from:
 ## Experience
 - **Senior Data Scientist**, [On The Barrelhead / NerdWallet](www.nerdwallet.com), October 2021 - Present
   - *Working group:* Credit Cards and Lending
-  - * Used data science to solve problems and help make business decisions.
-  -- * Anomaly detection to flag fraduelent users.
-  -- * Predictive modeling to help determine correct product or flow.
-  -- * Portfolio optimization to help determine optimal ratio of products to sell to users.
-  -- * Generative modeling to bolster class-imbalanced datasets with additional synthetic data.
+  * Used data science to solve problems and help make business decisions.
+  * Anomaly detection to flag fraduelent users.
+  * Predictive modeling to help determine correct product or flow.
+  * Portfolio optimization to help determine optimal ratio of products to sell to users.
+  * Generative modeling to bolster class-imbalanced datasets with additional synthetic data.
  
 - **Chief Data Scientist**, [Rigorous Machine Learning Solutions, LLC](), October 2022 - Present
-  - * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/) and On The Barrelhead (before starting full-time as a senior data scientist).
+  * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/) and On The Barrelhead (before starting full-time as a senior data scientist).
 
 -**National Science Foundation (NSF) Intern, USGS
-  - * Worked with the USGS hyperspectral team to collect hyperspectral data for more accurate predictive analysis.
+  * Worked with the USGS hyperspectral team to collect hyperspectral data for more accurate predictive analysis.
 
 - **Graduate Research Assistant**, [CASERM](https://caserm.mines.edu/), 2019 - 2021
-  - * Worked on a project that requires collecting two different types of mineralogical data and applying image recognition techniques in order to
+  * Worked on a project that requires collecting two different types of mineralogical data and applying image recognition techniques in order to
 reconcile the two datasets. A preprocessing step is applied that uses convolutional neural networks to "mask” the data that is not useful. Following the preprocessing, neural network modeling are used to allow for prediction of one dataset given the other.
 
 - **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
   - *Working Group:* Finance
-  - 
 
 - **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
 
