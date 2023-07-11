@@ -42,7 +42,7 @@ redirect_from:
 - **Chief Data Scientist**, [Rigorous Machine Learning Solutions, LLC](), October 2022 - Present
   * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/) and On The Barrelhead (before starting full-time as a senior data scientist).
 
--**National Science Foundation (NSF) Intern, USGS
+- **National Science Foundation (NSF) Intern, USGS**, June 2021-August 2021
   * Worked with the USGS hyperspectral team to collect hyperspectral data for more accurate predictive analysis.
 
 - **Graduate Research Assistant**, [CASERM](https://caserm.mines.edu/), 2019 - 2021
