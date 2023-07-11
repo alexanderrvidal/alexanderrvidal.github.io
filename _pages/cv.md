@@ -33,8 +33,8 @@ redirect_from:
 ## Experience
 - **Senior Data Scientist**, [On The Barrelhead / NerdWallet](www.nerdwallet.com), October 2021 - Present
   - *Working group:* Credit Cards and Lending
-  * Used data science to solve problems and help make business decisions:
-  ** Anomaly detection to flag fraduelent users.
+  - Used data science to solve problems and help make business decisions:
+  * Anomaly detection to flag fraduelent users.
   * Predictive modeling to help determine correct product or flow.
   * Portfolio optimization to help determine optimal ratio of products to sell to users.
   * Generative modeling to bolster class-imbalanced datasets with additional synthetic data.
