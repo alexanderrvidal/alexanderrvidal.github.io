@@ -55,7 +55,7 @@ reconcile the two datasets.
   - *Working Group:* Finance
   * Worked on a project to classify documents using deep learning and natural language processing (NLP).
     
-- **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
+- **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2021
   * *Classes:* MATH534/535: Mathematical Statistics, MATH537: Multivariate Analysis, MATH536: Advanced Statistical Modeling, MATH225: Differential Equations.
   
 ## Computer Skills
