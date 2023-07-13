@@ -49,11 +49,12 @@ redirect_from:
   * Collected two different types of mineralogical data and applied image recognition techniques in order to
 reconcile the two datasets.
   * A preprocessing step was applied that uses convolutional neural networks to "mask” the data that is not useful.
-  * Following the preprocessing, neural network modeling are used to allow for prediction of one dataset given the other.
+  * A stochastic autoencoder (SAE) is used to 'mix' the data used from different sources a latent space.
+  * Neural network is used to allow for prediction of one dataset given the other.
 
 - **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
   - *Working Group:* Finance
-  * Worked on a project to classify documents using deep learning and natural language processing (NLP).
+  * Classified pdf documents using deep learning and natural language processing (NLP).
     
 - **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2021
   * *Classes:* MATH534/535: Mathematical Statistics, MATH537: Multivariate Analysis, MATH536: Advanced Statistical Modeling, MATH225: Differential Equations.
