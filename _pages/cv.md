@@ -51,7 +51,7 @@ reconcile the two datasets. A preprocessing step is applied that uses convolutio
 
 - **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
   - *Working Group:* Finance
-
+  * Worked on a project to classify documents using deep learning and natural language processing (NLP).
 - **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
 
 ## Computer Skills
