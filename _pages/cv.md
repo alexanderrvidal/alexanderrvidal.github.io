@@ -40,7 +40,7 @@ redirect_from:
   * Generative modeling to bolster class-imbalanced datasets with additional synthetic data.
  
 - **Chief Data Scientist**, [Rigorous Machine Learning Solutions, LLC](), October 2022 - Present
-  * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/) and On The Barrelhead (before starting full-time as a senior data scientist).
+  * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/), [Verra](https://www.verra.ai/), and On The Barrelhead (before starting full-time as a senior data scientist).
 
 - **National Science Foundation (NSF) Intern, USGS**, June 2021-August 2021
   * Worked with the USGS hyperspectral team to collect hyperspectral data for more accurate predictive analysis.
