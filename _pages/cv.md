@@ -46,8 +46,10 @@ redirect_from:
   * Worked with the USGS hyperspectral team to collect hyperspectral data for more accurate predictive analysis.
 
 - **Graduate Research Assistant**, [CASERM](https://caserm.mines.edu/), 2019 - 2021
-  * Worked on a project that requires collecting two different types of mineralogical data and applying image recognition techniques in order to
-reconcile the two datasets. A preprocessing step is applied that uses convolutional neural networks to "mask” the data that is not useful. Following the preprocessing, neural network modeling are used to allow for prediction of one dataset given the other.
+  * Collected two different types of mineralogical data and applied image recognition techniques in order to
+reconcile the two datasets.
+  * A preprocessing step was applied that uses convolutional neural networks to "mask” the data that is not useful.
+  * Following the preprocessing, neural network modeling are used to allow for prediction of one dataset given the other.
 
 - **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
   - *Working Group:* Finance
