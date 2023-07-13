@@ -54,8 +54,10 @@ reconcile the two datasets.
 - **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
   - *Working Group:* Finance
   * Worked on a project to classify documents using deep learning and natural language processing (NLP).
+    
 - **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2020
-
+  * *Classes:* MATH534/535: Mathematical Statistics, MATH537: Multivariate Analysis, MATH536: Advanced Statistical Modeling, MATH225: Differential Equations.
+  
 ## Computer Skills
 - **Programming languages:** Python, R, Matlab, Bash/Shell script, LaTeX, PostgreSQL, MSSQL
 - **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow
