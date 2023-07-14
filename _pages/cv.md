@@ -61,7 +61,7 @@ reconcile the two datasets.
   
 ## Computer Skills
 - **Programming languages:** Python, R, Matlab, Bash/Shell script, LaTeX, PostgreSQL, MSSQL
-- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow
+- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow, CVX, CVXPy
 - **Operating Systems:** MacOS, Linux, Windows
 - **Other:** Git
 
