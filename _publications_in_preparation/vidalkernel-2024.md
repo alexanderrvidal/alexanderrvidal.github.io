@@ -3,6 +3,8 @@ title: "Kernel Expansions for Mean-Field Control"
 collection: publications
 permalink: /publications/articles/vidalkernel-2024
 citation: <b>Vidal, Alexander</b>, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon: Kernel Expansions for Mean-Field Control
+date: Coming Soon!
+venue: Coming Soon!
 ---
 ## Abstract
 Mean-field control (MFCs) problems aim to find the optimal policy to control massive populations of interacting agents. These problems are crucial in areas such as in economics, physics, and biology. 
