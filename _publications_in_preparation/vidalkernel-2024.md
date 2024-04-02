@@ -2,7 +2,7 @@
 title: "Kernel Expansions for Mean-Field Control"
 collection: publications_in_preparation
 permalink: /publications_in_preparation/articles/vidalkernel-2024
-citation: "Vidal, Alexander, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon: Kernel Expansions for Mean-Field Control"
+citation: "Vidal, Alexander, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon"
 venue: 'Coming Soon!'
 ---
 ## Abstract
