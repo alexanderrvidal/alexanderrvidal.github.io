@@ -84,7 +84,7 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "portrait.jpeg"
-  bio              : "PhD Candidate and Consulting Data Scientist" # sidebar bio
+  bio              : "PhD Candidate and Senior Data Scientist" # sidebar bio
   location         : "Durango, Colorado, USA"
   employer         : "Colorado School of Mines" 
   googlescholar    : "JwVdglMAAAAJ"
