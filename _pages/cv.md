@@ -67,6 +67,7 @@ reconcile the two datasets.
 
 ## Software Publications and Contributions
 
+- **Python:** [Kernel Expansions for MFC](https://github.com/mines-opt-ml/kernel-expansions-for-mfc) (Pytorch implementation for MFC paper)
 - **Python:** [JKO-Flow](https://github.com/mines-opt-ml/JKO_Flow) (Pytorch implementation for the JKO-Flow paper)
 
 ## Peer-Reviewed Publications
