@@ -84,9 +84,9 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "portrait.jpeg"
-  bio              : "PhD Candidate and Senior Data Scientist" # sidebar bio
+  bio              : "Senior Data Scientist" # sidebar bio
   location         : "Durango, Colorado, USA"
-  employer         : "Colorado School of Mines" 
+  employer         : "NerdWallet" 
   googlescholar    : "JwVdglMAAAAJ"
   email            : "alexanderrobertvidal@gmail.com"
   researchgate     : "Alexander-Vidal-3"
