@@ -1,7 +1,7 @@
 ---
 title: "Interpretation of Hyperspectral Shortwave Infrared Core Scanning Data Using SEM-Based Automated Mineralogy: A Machine Learning Approach"
 collection: publications
-permalink: /publications/articles/blake-discussion-2021
+permalink: /publications/articles/rotem-interpretation-2023
 citation: "Rotem, Amit, <b>Vidal, Alexander</b>, Pfaff, Katharina, Tenorio, Luis, Chung, Matthias, Tharalson, Erik, Monecke, Thomas: Journal of Geosciences, DOI: <a href='https://www.mdpi.com/2076-3263/13/7/192'>https://www.mdpi.com/2076-3263/13/7/192 </a>, 2023."
 date: 2023-06-24
 venue: 'Journal of Geosciences'
