@@ -2,7 +2,7 @@
 title: "Kernel Expansions for High-Dimensional Mean-Field Control with Non-local Interactions"
 collection: publications_in_preparation
 permalink: /publications_in_preparation/articles/vidalkernel-2024
-citation: "<b> Vidal, Alexander </b>, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon"<i>&quot;Kernel Expansions for High-Dimensional Mean-Field Control with Non-local Interactions&quot;</i>,arXiv preprint arXiv:2405.10922, DOI: <a href='https://arxiv.org/abs/2405.10922'>https://arxiv.org/abs/2405.10922</a>, 2024."
+citation: "<b> Vidal, Alexander </b>, Wu Fung, Samy, Tenorio, Luis, Osher, Stanley, Nurbekyan, Levon<i>&quot;Kernel Expansions for High-Dimensional Mean-Field Control with Non-local Interactions&quot;</i>,arXiv preprint arXiv:2405.10922, DOI: <a href='https://arxiv.org/abs/2405.10922'>https://arxiv.org/abs/2405.10922</a>, 2024."
 Date: 2024-5-17
 venue: 'arXiv preprint arXiv:2405.10922'
 ---
