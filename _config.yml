@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "ALEXANDER VIDAL" # site title
 title_separator          : "&#124;"
-name                     : &name "Alexander Vidal, PhD"
+name                     : &name "Alexander Vidal"
 description              : &description "Senior Data Scientist" # used predominantly in meta descriptions for improving SEO
 url                      : "https://alexanderrvidal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
