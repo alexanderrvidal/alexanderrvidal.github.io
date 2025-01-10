@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "ALEXANDER VIDAL" # site title
 title_separator          : "&#124;"
 name                     : &name "Alexander Vidal"
-description              : &description "Senior Data Scientist" # used predominantly in meta descriptions for improving SEO
+description              : &description "Senior Data and Research Scientist" # used predominantly in meta descriptions for improving SEO
 url                      : "https://alexanderrvidal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexnaderrvidal/alexanderrvidal.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "portrait.jpeg"
-  bio              : "Senior Data Scientist" # sidebar bio
+  bio              : "Senior Data and Research Scientist" # sidebar bio
   location         : "Durango, Colorado, USA"
   employer         : "NerdWallet" 
   googlescholar    : "JwVdglMAAAAJ"
