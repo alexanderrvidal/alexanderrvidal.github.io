@@ -31,13 +31,24 @@ redirect_from:
 **[University of Colorado - Boulder](https://www.colorado.edu/ "https://www.colorado.edu/")**
 
 ## Experience
-- **Senior Data Scientist**, [On The Barrelhead / NerdWallet](www.nerdwallet.com), October 2021 - Present
-  - *Working group:* Credit Cards and Lending
-  * Used data science to solve problems and help make business decisions:
-  * Lead implementation of recommender algorithms for all credit card pages.  
-  * Predictive modeling to help determine correct product or flow.
-  * Portfolio optimization to help determine optimal ratio of products to sell to users.
-  * Generative modeling to bolster class-imbalanced datasets with additional synthetic data.
+
+- **Senior Machine Learning Researcher**, [Launch Potato](https://www.launchpotato.com), February 2025 – Present  
+  - *Location:* Remote / Durango, CO  
+  - **Technical Leadership:** Serve as the primary machine learning expert across all business verticals. Mentor fellow data scientists and lead strategic ML initiatives, particularly in recommendation systems.  
+  - **Recommendation Systems:** Identify opportunities for ranking and personalization (e.g., two-tower architectures). Lead technical implementation and contribute to engineering and MLOps.  
+  - **Revenue Optimization:** Develop utility-aware models to optimize revenue per click (RPC), bid adjustments, and downstream monetization strategies.  
+  - **Learning with Bandits:** Apply contextual and multi-armed bandits to optimize ad placement and recommendation performance under uncertainty.  
+  - **Statistical Inference:** Conduct A/B tests and use statistical methods to quantify the effectiveness of ML-driven interventions.
+
+
+- **Senior Data Scientist**, On The Barrelhead / [NerdWallet](https://www.nerdwallet.com), October 2021 – August 2024  
+  - *Location:* Remote / Durango, CO  
+  - **Technical Leadership:** Led the data science team for Credit Cards and Lending, mentoring a direct report and driving strategic machine learning initiatives.  
+  - **Startup Transition:** Spearheaded the integration of On The Barrelhead’s data science operations into NerdWallet post-acquisition, enhancing ML capabilities across product pages.  
+  - **Revenue Growth:** Designed and deployed recommendation algorithms for product roundups, increasing average revenue per session by 15%.  
+  - **Synthetic Data Generation:** Leveraged generative modeling to augment class-imbalanced datasets, improving ML performance in key applications.  
+  - **User Engagement Optimization:** Developed predictive models for personalized product recommendations, increasing click-through rates by 10%.  
+  - **Risk Management:** Applied portfolio optimization techniques to determine the ideal product mix, balancing risk and user value.
  
 - **Chief Data Scientist**, [Rigorous Machine Learning Solutions, LLC](), October 2022 - Present
   * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/), [Verra](https://www.verra.ai/), and On The Barrelhead (before starting full-time as a senior data scientist).
