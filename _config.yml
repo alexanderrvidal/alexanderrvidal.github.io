@@ -85,7 +85,7 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "portrait.jpeg"
-  bio              : "Senior Machine Learning Researcher" # sidebar bio
+  bio              : "Senior ML Researcher | ML for startups | PhD in Applied Mathematics & Statistics" # sidebar bio
   location         : "Durango, Colorado, USA"
   employer         : "Launch Potato" 
   googlescholar    : "JwVdglMAAAAJ"
