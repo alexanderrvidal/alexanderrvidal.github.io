@@ -25,8 +25,6 @@ Click [here](/cv-print/) for a printable version or
   <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;
   <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
   &nbsp;|&nbsp;
-  <a href="https://www.alexander-vidal.com">www.alexander-vidal.com</a>
-  &nbsp;|&nbsp;
   <a href="{{ site.author.googlescholar }}">Google Scholar</a>
 </p>
 
