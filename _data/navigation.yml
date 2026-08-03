@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "PUBLICATIONS"
+  - title: "TEACHING"
     url: /publications/
 
-  #- title: "OUTREACH"
-  #  url: /outreach/
+  - title: "PROJECTS"
+   url: /outreach/
 
   - title: "CV"
     url: /cv/
