@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "ALEXANDER VIDAL" # site title
 title_separator          : "&#124;"
 name                     : &name "Alex Vidal"
-description              : "Applied Mathematician | Educator | Scientific Consultant"
+description              : "Applied Mathematician"
 url                      : "https://alexander-vidal.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexnaderrvidal/alexanderrvidal.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "portrait.jpeg"
-  bio              : "Applied Mathematician | Educator | Scientific Consultant"
+  bio              : "Applied Mathematician"
   location         : "Durango, Colorado, USA"
   employer         : "Rigorous Machine Learning Solutions, LLC" 
   googlescholar    : "JwVdglMAAAAJ"
