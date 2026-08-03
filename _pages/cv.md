@@ -21,7 +21,6 @@ Click [here](/cv-print/) for a printable version or
 </p>
 
 <p align="center">
-  Bellingham, WA
   <br>
   <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;
   <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
