@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
-excerpt: "Education, scientific background, research interests & skills, and more."
+excerpt: "Education, teaching experience, research, publications, and technical background."
 author_profile: true
 redirect_from:
   -
@@ -9,90 +9,173 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
+<!--
+Click [here](/cv-print/) for a printable version or
+[download a PDF](/files/cv-print.pdf).
+-->
 
 <h2 align="center">{{ site.author.name }}</h2>
-<!-- <h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3> -->
-<p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
-<!-- &#124; This symbol is a vertical bar-->
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> </p>
+<p align="center" style="margin: auto; width: 80%;">
+  {{ site.author.bio }}
+</p>
+
+<p align="center">
+  Bellingham, WA
+  <br>
+  <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;
+  <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.alexander-vidal.com">www.alexander-vidal.com</a>
+  &nbsp;|&nbsp;
+  <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+</p>
+
 
 ## Education
-- **Ph.D. in Applied Mathematics and Statistics**, 2019-May 2024<br>
-**[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
-  - *Thesis:* [Deep Learning Methods for Large-Scale Physics]()
-  - *Committee:* [Dr. Samy Wu Fung (Advisor)](https://ams.mines.edu/project/wu-fung-samy/), [Dr. Luis Tenorio (Advisor)](https://ams.mines.edu/project/tenorio-luis/), [Dr. Gregory Fasshauer](https://ams.mines.edu/project/fasshauer-greg/), [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/), [Dr. Levon Nurbekyan](https://sites.google.com/view/lnurbek/home), [Dr. Thomas Monecke (Chair)](https://geology.mines.edu/project/monecke-thomas/)
 
-- **M.Sc. in Applied Mathematics and Statistics, Minor: Electrical Engineering**, 2018-2019<br>
-**[Department of Applied Mathematics and Statistics](https://ams.mines.edu/ "https://ams.mines.edu/"), [Colorado School of Mines](https://www.mines.edu/ "https://www.mines.edu/")**
+### Ph.D. — Applied Mathematics and Statistics
 
-- **B.Sc. in Engineering, Minor: Economics**, 2006-2010<br>
-**[University of Colorado - Boulder](https://www.colorado.edu/ "https://www.colorado.edu/")**
+**Colorado School of Mines**  
+December 2024
 
-## Experience
-
-- **Senior Machine Learning Researcher**, [Launch Potato](https://www.launchpotato.com), February 2025 – Present  
-  - *Location:* Remote / Durango, CO  
-  - **Technical Leadership:** Serve as the primary machine learning expert across all business verticals. Mentor fellow data scientists and lead strategic ML initiatives, particularly in recommendation systems.  
-  - **Recommendation Systems:** Identify opportunities for ranking and personalization (e.g., two-tower architectures). Lead technical implementation and contribute to engineering and MLOps.  
-  - **Revenue Optimization:** Develop utility-aware models to optimize revenue per click (RPC), bid adjustments, and downstream monetization strategies.  
-  - **Learning with Bandits:** Apply contextual and multi-armed bandits to optimize ad placement and recommendation performance under uncertainty.  
-  - **Statistical Inference:** Conduct A/B tests and use statistical methods to quantify the effectiveness of ML-driven interventions.
+- **Thesis:** *Deep Learning Methods for Large-Scale Physics*
+- **Advisors:** [Dr. Samy Wu Fung](https://ams.mines.edu/project/wu-fung-samy/) and [Dr. Luis Tenorio](https://ams.mines.edu/project/tenorio-luis/)
+- **Committee:** [Dr. Levon Nurbekyan](https://sites.google.com/view/lnurbek/home), [Dr. Gregory Fasshauer](https://ams.mines.edu/project/fasshauer-greg/), [Dr. Thomas Monecke](https://geology.mines.edu/project/monecke-thomas/), and [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/)
+- Magna Cum Laude, GPA: 3.8/4.0
 
 
-- **Senior Data Scientist**, On The Barrelhead / [NerdWallet](https://www.nerdwallet.com), October 2021 – August 2024  
-  - *Location:* Remote / Durango, CO  
-  - **Technical Leadership:** Led the data science team for Credit Cards and Lending, mentoring a direct report and driving strategic machine learning initiatives.  
-  - **Startup Transition:** Spearheaded the integration of On The Barrelhead’s data science operations into NerdWallet post-acquisition, enhancing ML capabilities across product pages.  
-  - **Revenue Growth:** Designed and deployed recommendation algorithms for product roundups, increasing average revenue per session by 15%.  
-  - **Synthetic Data Generation:** Leveraged generative modeling to augment class-imbalanced datasets, improving ML performance in key applications.  
-  - **User Engagement Optimization:** Developed predictive models for personalized product recommendations, increasing click-through rates by 10%.  
-  - **Risk Management:** Applied portfolio optimization techniques to determine the ideal product mix, balancing risk and user value.
- 
-- **Chief Data Scientist**, [Rigorous Machine Learning Solutions, LLC](), October 2022 - Present
-  * Consulted on predictive data modeling projects for [Regenexx](https://www.regenexx.com/), [Verra](https://www.verra.ai/), and On The Barrelhead (before starting full-time as a senior data scientist).
+### M.Sc. — Applied Mathematics and Statistics
 
-- **National Science Foundation (NSF) Intern, USGS**, June 2021-August 2021
-  * Worked with the USGS hyperspectral team to collect hyperspectral data for more accurate predictive analysis.
+**Colorado School of Mines**  
+May 2020
 
-- **Graduate Research Assistant**, [CASERM](https://caserm.mines.edu/), 2019 - 2021
-  * Collected two different types of mineralogical data and applied image recognition techniques in order to
-reconcile the two datasets.
-  * A preprocessing step was applied that uses convolutional neural networks to "mask” the data that is not useful.
-  * A stochastic autoencoder (SAE) is used to 'mix' the data used from different sources a latent space.
-  * Neural network is used to allow for prediction of one dataset given the other.
+- Magna Cum Laude, GPA: 3.8/4.0
 
-- **Data Science Intern**, [Lumen Technologies (formerly CenturyLink)](https://www.lumen.com/), June 2019 - August 2019
-  - *Working Group:* Finance
-  * Classified pdf documents using deep learning and natural language processing (NLP).
-    
-- **Teaching Assistant**, [Colorado School of Mines](https://www.mines.edu/), 2018-2021
-  * *Classes:* MATH534/535: Mathematical Statistics, MATH537: Multivariate Analysis, MATH536: Advanced Statistical Modeling, MATH225: Differential Equations.
-  
-## Computer Skills
-- **Programming languages:** Python, R, Matlab, Bash/Shell script, LaTeX, PostgreSQL, MSSQL
-- **Packages:** Numpy, Scipy, Pandas, scikit-learn, Pytorch, Keras, Tensorflow, CVX, CVXPy
-- **Operating Systems:** MacOS, Linux, Windows
-- **Other:** Git
 
-## Software Publications and Contributions
+### B.Sc. — Mechanical Engineering, Minor: Economics
 
-- **Python:** [Kernel Expansions for MFC](https://github.com/mines-opt-ml/kernel-expansions-for-mfc) (Pytorch implementation for MFC paper)
-- **Python:** [JKO-Flow](https://github.com/mines-opt-ml/JKO_Flow) (Pytorch implementation for the JKO-Flow paper)
+**University of Colorado Boulder**
 
-## Peer-Reviewed Publications
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}</ul>
 
-## Manuscripts in Preparation and Preprints
-<ul>{% for post in site.publications_in_preparation reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}</ul>
+## Teaching & Instructional Experience
 
-## Conference Contributions & Talks
-<ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+### Teaching Assistant
 
+**Colorado School of Mines** — Golden, CO  
+August 2018 – May 2022
+
+- Delivered instructional support, hosted tutoring sessions, and graded evaluations for the following advanced undergraduate and graduate-level courses:
+  - MATH534/535: Mathematical Statistics (Probability)
+  - MATH530/531: Statistical Methods
+  - MATH537: Multivariate Analysis
+  - MATH536: Advanced Statistical Modeling
+  - MATH225: Differential Equations
+
+
+### Teaching Assistant
+
+**University of Colorado Boulder** — Boulder, CO  
+August 2010 – December 2010
+
+- Served as the lab teaching assistant, providing in-person technical instruction and assistance to students working on assignments for the following course:
+  - MCEN4037: Experimental Design and Data Analysis
+
+
+## Expertise & Skills
+
+- **Mathematics & Statistics:** Probability, Multivariate Analysis, Differential Equations, Calculus, Linear Algebra
+- **Mathematical Modeling:** Numerical Optimization, Scientific Computing
+- **Machine Learning:** Deep Learning, Generative Modeling (Diffusion/Normalizing Flows), Ranking
+- **Programming Languages:** Python, R, MATLAB, SQL, Bash/Shell Script, LaTeX
+- **Libraries & Tools:** PyTorch, TensorFlow, XGBoost, NumPy, Pandas, Polars, Scikit-Learn, Git
+
+
+## Industry and Technical Experience
+
+<!--
+Add the Denver Life Sciences consulting role here after confirming
+the exact job title, start date, and final CV wording.
+-->
+
+### Owner and Machine Learning Scientist
+
+**[Rigorous Machine Learning Solutions, LLC]()** — Remote/Durango, CO  
+October 2020 – Present
+
+- Advised diverse industry clients on end-to-end predictive data modeling architectures and taught teams how to integrate statistical frameworks into existing infrastructures.
+- Designed custom machine learning models to solve specialized client issues, transforming raw mathematical principles into robust algorithmic deployments.
+
+
+### Senior Machine Learning Researcher
+
+**[Launch Potato](https://www.launchpotato.com)** — Remote/Durango, CO  
+February 2025 – June 2026
+
+- Served as the primary machine learning technical resource across multiple business verticals, focusing on mentoring data scientists and translating complex mathematical models for engineering teams.
+- Led the end-to-end design and deployment of large-scale mathematical recommendation architectures.
+- Utilized rigorous A/B testing frameworks and statistical inference to evaluate model efficacy, communicate findings, and guide data-driven strategy.
+
+
+### Senior Data Scientist
+
+**On The Barrelhead / [NerdWallet](https://www.nerdwallet.com)** — Remote/Durango, CO  
+October 2021 – August 2024
+
+- Supervised the data science division for credit cards and lending, providing direct professional mentorship, training, and academic direction to junior researchers.
+- Directed the complex technical integration of machine learning operations following corporate acquisition, clarifying mathematical optimization strategies to cross-functional stakeholders.
+- Formulated personalized predictive models and deployed portfolio optimization techniques to balance risk matrices against core system utilities.
+
+
+### National Science Foundation (NSF) Intern
+
+**United States Geological Survey** — Remote/Lakewood, CO  
+Summer 2021
+
+- Partnered with the USGS hyperspectral research branch to model and parse hyperspectral datasets, establishing predictive analyses for planetary geology.
+
+
+### Graduate Research Assistant
+
+**[Center for Advanced Subsurface Earth Resource Models](https://caserm.mines.edu/)** — Remote/Golden, CO  
+August 2019 – August 2021
+
+- Developed image recognition and computer-vision workflows to isolate anomalies and cross-verify distinct mineralogical datasets.
+- Built convolutional neural networks and stochastic autoencoders to project distinct physical parameters into a shared mathematical latent space.
+
+
+### Data Science Intern
+
+**[Lumen Technologies](https://www.lumen.com/) (formerly CenturyLink)** — Remote/Broomfield, CO  
+Summer 2019
+
+- Applied natural language processing architectures and deep learning classifiers to automate document indexing and classification.
+
+
+## Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+
+## Academic Service
+
+- Reviewer, IEEE American Control Conference (ACC 2026)
+
+
+## Open-Source Software
+
+- **[Kernel Expansions for Mean-Field Control](https://github.com/mines-opt-ml/kernel-expansions-for-mfc):** Implementation of the ACC (2025) paper
+- **[JKO-Flow: Normalizing Flows via the JKO Scheme](https://github.com/mines-opt-ml/JKO_Flow):** Implementation of the Scientific Reports (2023) paper
+
+
+## Select Conference Contributions and Talks
+
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
