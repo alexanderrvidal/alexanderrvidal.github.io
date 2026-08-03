@@ -193,16 +193,6 @@ Summer 2019
 </ul>
 
 
-{% if site.publications_in_preparation.size > 0 %}
-## Manuscripts in Preparation and Preprints
-
-<ul>
-{% for post in site.publications_in_preparation reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-{% endif %}
-
 ## Academic Service
 
 - Reviewer, IEEE American Control Conference (ACC 2026)
