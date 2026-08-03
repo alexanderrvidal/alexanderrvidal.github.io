@@ -5,32 +5,10 @@ excerpt: "Teaching experience, interests, philosophy, and course materials."
 author_profile: true
 ---
 
----
-
-permalink: /teaching/
-title: "Teaching"
-excerpt: "Teaching experience, philosophy, course interests, and educational materials."
-author_profile: true
-redirect_from:
---------------
-
----
-
 {% include base_path %}
 
 <div class="teaching-page">
 
-  <p>
-    <strong>I am an applied mathematician and educator interested in helping students develop a rigorous, intuitive, and practical understanding of mathematics.</strong>
-  </p>
-
-  <p>
-    I hold a Ph.D. and an M.Sc. in Applied Mathematics and Statistics from the Colorado School of Mines, along with a B.Sc. in Mechanical Engineering from the University of Colorado Boulder. My academic and professional background spans mathematics, statistics, scientific computing, optimization, engineering, and applied research.
-  </p>
-
-  <p>
-    I am currently pursuing teaching opportunities in mathematics, statistics, mathematical modeling, and mathematically oriented data science. My long-term goal is to combine undergraduate teaching, student mentorship, and collaboration on meaningful scientific problems.
-  </p>
 
   <h2>Teaching Philosophy</h2>
 
@@ -107,29 +85,6 @@ redirect_from:
   </p>
   -->
 
-  <h2>Courses I Am Prepared to Teach</h2>
-
-  <p>
-    My academic training and instructional experience prepare me to contribute to courses across undergraduate mathematics, statistics, engineering, and data science curricula.
-  </p>
-
-  <ul>
-    <li>College algebra and precalculus</li>
-    <li>Calculus I, II, and III</li>
-    <li>Linear algebra</li>
-    <li>Differential equations</li>
-    <li>Probability</li>
-    <li>Mathematical statistics</li>
-    <li>Applied statistics and statistical modeling</li>
-    <li>Multivariate analysis</li>
-    <li>Numerical analysis</li>
-    <li>Scientific computing</li>
-    <li>Mathematical modeling</li>
-    <li>Optimization and operations research</li>
-    <li>Experimental design and data analysis</li>
-    <li>Data science from a mathematical and statistical perspective</li>
-  </ul>
-
   <h2>Connecting Mathematics to Applications</h2>
 
   <p>
@@ -144,20 +99,10 @@ redirect_from:
     I am especially interested in supporting students who want to apply mathematics to the life sciences, earth sciences, physics, engineering, environmental research, and other interdisciplinary fields.
   </p>
 
-  <h2>Mentorship</h2>
-
-  <p>
-    Mentorship has been central to both my academic and professional work. In teaching and tutoring settings, I have helped students work through difficult mathematical material and develop greater confidence in their ability to solve problems.
-  </p>
-
   <p>
     In professional research roles, I have mentored data scientists and explained complex mathematical and statistical concepts to researchers, engineers, and other collaborators. These experiences strengthened my ability to meet people at their current level of understanding and help them move toward greater independence.
   </p>
-
-  <p>
-    I am particularly interested in mentoring undergraduate students who are considering careers or graduate study in mathematics, statistics, engineering, and scientific research.
-  </p>
-
+  
   <h2>Teaching Materials</h2>
 
   <p>
