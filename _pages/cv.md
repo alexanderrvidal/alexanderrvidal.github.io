@@ -150,15 +150,58 @@ Summer 2019
 
 - Applied natural language processing architectures and deep learning classifiers to automate document indexing and classification.
 
+## Peer-Reviewed Publications
 
-## Publications
+<ul class="cv-list">
+
+  <li>
+    Vidal, A., Wu Fung, S., Osher, S., Tenorio, L., and Nurbekyan, L.
+    “Kernel Expansions for High-Dimensional Mean-Field Control with Non-local Interactions.”
+    <em>2025 American Control Conference (ACC)</em>, 2025.
+    <a href="https://doi.org/10.23919/ACC63710.2025.11107993">
+      DOI: 10.23919/ACC63710.2025.11107993
+    </a>
+  </li>
+
+  <li>
+    Vidal, A., Wu Fung, S., Tenorio, L., Osher, S., and Nurbekyan, L.
+    “Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme.”
+    <em>Scientific Reports</em>, 13(1), 2023.
+  </li>
+
+  <li>
+    Rotem, A., Vidal, A., Pfaff, K., Tenorio, L., Chung, M., Tharalson, E.,
+    and Monecke, T.
+    “Interpretation of Hyperspectral Shortwave Infrared Core Scanning Data Using
+    SEM-Based Automated Mineralogy: A Machine Learning Approach.”
+    <em>Geosciences</em>, 13(7), 192, 2023.
+  </li>
+
+</ul>
+
+
+## Dissertation
+
+<ul class="cv-list">
+
+  <li>
+    Vidal, A.
+    <em>Deep Learning Methods for Large-Scale Physics.</em>
+    Ph.D. thesis, Colorado School of Mines, 2024.
+  </li>
+
+</ul>
+
+
+{% if site.publications_in_preparation.size > 0 %}
+## Manuscripts in Preparation and Preprints
 
 <ul>
-{% for post in site.publications reversed %}
+{% for post in site.publications_in_preparation reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
-
+{% endif %}
 
 ## Academic Service
 
