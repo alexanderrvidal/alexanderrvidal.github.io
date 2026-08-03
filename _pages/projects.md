@@ -1,13 +1,10 @@
 ---
-
 permalink: /projects/
 title: "Projects"
 excerpt: "Selected projects in applied mathematics, scientific modeling, optimization, and statistical research."
 author_profile: true
-redirect_from:
---------------
-
 ---
+
 
 {% include base_path %}
 
