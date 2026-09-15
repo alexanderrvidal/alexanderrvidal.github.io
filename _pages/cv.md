@@ -89,6 +89,30 @@ August 2010 – December 2010
 Add the Denver Life Sciences consulting role here after confirming
 the exact job title, start date, and final CV wording.
 -->
+### Consulting Senior Machine Learning Researcher
+
+**[Denver Life Sciences, LLC]()** - Remote
+June 2026 - Present
+- Develop statistical and machine learning methods for estimating
+    physiological attributes, including hydration, from multi-wavelength
+    photoplethysmography (PPG) sensor data.
+
+- Design reproducible signal-processing, feature-engineering, and
+    model-evaluation pipelines for noisy physiological time-series data.
+
+- Develop and evaluate predictive models for indirect physiological
+    inference, addressing sensor noise, subject variability, regularization,
+    calibration, and out-of-sample generalization.
+
+- Establish production-oriented modeling practices including
+    version-controlled experiments, modular pipelines, validation procedures,
+    and automated testing of data and model behavior.
+
+- Partner with startup leadership to translate open-ended scientific
+    questions into data-collection strategies, quantitative analyses, and
+    deployable modeling approaches.
+
+
 
 ### Owner and Machine Learning Scientist
 
