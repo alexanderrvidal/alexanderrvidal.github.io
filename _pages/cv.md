@@ -39,16 +39,11 @@ December 2024
 - **Thesis:** *Deep Learning Methods for Large-Scale Physics*
 - **Advisors:** [Dr. Samy Wu Fung](https://ams.mines.edu/project/wu-fung-samy/) and [Dr. Luis Tenorio](https://ams.mines.edu/project/tenorio-luis/)
 - **Committee:** [Dr. Levon Nurbekyan](https://sites.google.com/view/lnurbek/home), [Dr. Gregory Fasshauer](https://ams.mines.edu/project/fasshauer-greg/), [Dr. Thomas Monecke](https://geology.mines.edu/project/monecke-thomas/), and [Dr. Douglas Nychka](https://ams.mines.edu/project/nychka-doug/)
-- Magna Cum Laude, GPA: 3.8/4.0
-
 
 ### M.Sc. — Applied Mathematics and Statistics
 
 **Colorado School of Mines**  
 May 2020
-
-- Magna Cum Laude, GPA: 3.8/4.0
-
 
 ### B.Sc. — Mechanical Engineering, Minor: Economics
 
